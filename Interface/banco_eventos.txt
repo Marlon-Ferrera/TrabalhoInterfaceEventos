@@ -1,6 +1,7 @@
 Alunos do trabalho:
 Priscila E. Teixeira, 007605
 Marlon Ferreira, 007650
+Daniel Saraiva, 007645
 -----------------------------------
 
 CREATE DATABASE trabalho_eventos;
@@ -24,7 +25,7 @@ INSERT INTO eventos (nome, local, data_evento, capacidade) VALUES
 ('The Town', 'Autódromo de Interlagos', '06/09/2026', 100000),
 ('João Rock', 'Parque Permanente de Exposições', '01/08/2026', 70000),
 ('Festival de Verão Salvador', 'Arena Festival - Wet Eventos', '24/01/2027', 50000),
-('Planeta Atlântida', 'Praia de Atlântida', '2027-01-30', 80000),
+('Planeta Atlântida', 'Praia de Atlântida', '30/01/2027', 80000),
 ('Primavera Sound São Paulo', 'Autódromo de Interlagos', '05/12/2026', 100000),
 ('Time Warp Brasil', 'Neo Química Arena', '01/05/2026', 50000),
 ('Universo Paralello', 'Praia de Pratigi', '27/12/2026', 20000);
